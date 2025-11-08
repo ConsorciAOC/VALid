@@ -1,4 +1,12 @@
-# VALid
+# ⚠️ Projecte Deprecat ⚠️
+
+> **Aquest repositori està deprecat** i ja no rep manteniment.  
+> El nou projecte actiu és **[VALid2](https://github.com/ConsorciAOC/VALid2)**.  
+> Si us plau, utilitzeu aquest nou repositori per a totes les noves integracions o desenvolupaments.
+
+---
+
+# VALid ![status: deprecated](https://img.shields.io/badge/status-deprecated-red)
 
 ## **DI – VALId (Validador d'identitats)**
 
